@@ -1,4 +1,5 @@
 # test
 
 ## Graph
-![alt text](screenshots/00000046.jpg "graph")
+
+![](screenshots/lab_4/00000046.jpg "graph")
